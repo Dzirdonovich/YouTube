@@ -1,0 +1,17 @@
+.EndItem__wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid lighten(grey, 5);
+  cursor: pointer;
+  position: relative;
+
+  .EndItem__content {
+    width: 10px;
+    height: 10px;
+    background: grey;
+  }
+}

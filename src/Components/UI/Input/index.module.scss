@@ -1,0 +1,26 @@
+.input__wrapper {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid grey;
+  input {
+    width: 80%;
+    background: none;
+    border: none;
+    outline: none;padding: 5px 2px;
+
+  }
+  .input__button{
+    border: none;
+    width: 20%;
+    background: lighten(grey, 5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    .input__svg {
+      background: white;
+      width: 5px;
+      height: 5px;
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "videos": [
+    {
+      "id": 0,
+      "video": "https://www.youtube.com/embed/tu6vPd--Wdk",
+      "title": "Kwiat Jabłoni - Dzień dobry [live session]",
+      "author": "Kwiat Jabłoni",
+      "watch": "6700000"
+    },
+    {
+      "id": 1,
+      "video": "https://www.youtube.com/embed/FWDXwrgdm9w",
+      "title": "Kwiat Jabłoni - \"Dziś późno pójdę spać\"",
+      "author": "Kwiat Jabłoni",
+      "watch": "38000000"
+    },
+    {
+      "id": 2,
+      "title": "ПРОСТО САМЫЙ ЭПИЧНЫЙ СПУСК ЗА ВСЁ ВРЕМЯ! 20 МИНУТ ИДЕАЛЬНОГО БЕЗУМИЯ В ГТА 5 ОНЛАЙН",
+      "video": "https://www.youtube.com/embed/yGNegt9ZZvQ",
+      "author": " Joe Speen",
+      "watch": 0
+    },
+    {
+      "video": "https://www.youtube.com/embed/B-ytMSuwbf8",
+      "title": "Web Design for Beginners | FREE COURSE",
+      "author": "Igor",
+      "watch": 0,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "name": "Igor",
+      "password": "123456"
+    },
+    {
+      "id": 1,
+      "name": "Vasya",
+      "password": "123456"
+    }
+  ]
+}
